@@ -11,7 +11,6 @@ https://www.w3schools.com/css/default.asp
 
 [xxxxx]
 https://www.tutorialspoint.com/css/index.htm
-https://www.tutorialspoint.com/computer_glossary.htm#br
 
 [xxxxx] 
 https://www.javatpoint.com/css-tutorial
