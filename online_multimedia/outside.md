@@ -58,7 +58,7 @@ Fresh air, open skies, and nature’s charm.
 Ride the waves and feel the thrill.
 
 - [gosurf | rishon-lezion > Sea waves height](https://gosurf.co.il/forecast/rishon-lezion)
-  - 🌊 <a href="https://gosurf.co.il/forecast/rishon-lezion" target="_blank">gosurf | rishon-lezion > Sea waves height</a>
+  - 🌊 <a href="https://gosurf.co.il/forecast/rishon-lezion" target="new">gosurf | rishon-lezion > Sea waves height</a>
 - Surf schools, gear rentals, and beach competitions  
 - Best spots for beginners and pros alike
 
