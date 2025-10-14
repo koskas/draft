@@ -59,7 +59,7 @@ Ride the waves and feel the thrill.
 
 - [🌊 gosurf | rishon-lezion > Sea waves height](https://gosurf.co.il/forecast/rishon-lezion)
 - Surf schools, gear rentals, and beach competitions  
-- Best spots for beginners and pros alike
+- Best spots for beginners and pros alike 
 
 ---
 
