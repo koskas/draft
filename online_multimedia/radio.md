@@ -4,9 +4,8 @@
 # 🎶 radio
 
 ## 📼 80's Radio
-* [q102-80s](https://radio.garden/listen/q102-80s/DGxMYksT)
-
-
+* Dublin, Ireland
+   * [onic 80s | q102-80s](https://radio.garden/listen/q102-80s/DGxMYksT)
 
 ## 🇮🇱 il
 * xxx
