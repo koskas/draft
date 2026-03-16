@@ -32,8 +32,18 @@
 
 #### Bucharest, Romania
 * [Magic 90s Hits](https://live.kissfm.ro/Magic-90s)
-* https://radio.garden/api/ara/content/listen/SLyQUtCI/channel.mp3?1773639808431
+    * https://radio.garden/api/ara/content/listen/SLyQUtCI/channel.mp3?1773639808431
 
+
+#### focuse music 
+
+###### Augsburg, Germany 
+* [Klassik Radio Meditation]()
+    * https://radio.garden/api/ara/content/listen/C4iWcwr1/channel.mp3?1773671594946
+
+###### Minneapolis MN, United States
+* [World Fusion Radio - Moonlight Meditations](https://eu8.fastcast4u.com/proxy/moon?mp=/1)
+    * https://radio.garden/api/ara/content/listen/AXkl9978/channel.mp3?1773671715074
 
 ## 🇮🇱 il
 * xxx
