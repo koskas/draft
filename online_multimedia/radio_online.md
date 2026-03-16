@@ -23,15 +23,22 @@
   
 -----
 
-#### 
-* https://media-ssl.musicradio.com/Heart90s
-   *  https://radio.garden/api/ara/content/listen/9As1Lkyf/channel.mp3?1773588606474
+#### London, United Kingdom
+* [Heart 90s Radio](https://media-ssl.musicradio.com/Heart90s)
+   * https://radio.garden/api/ara/content/listen/9As1Lkyf/channel.mp3?1773638986945
+   * https://radio.garden/api/ara/content/listen/9As1Lkyf/channel.mp3?1773588606474
+
+-----
+
+#### Bucharest, Romania
+* [Magic 90s Hits](https://live.kissfm.ro/Magic-90s)
+* https://radio.garden/api/ara/content/listen/SLyQUtCI/channel.mp3?1773639808431
 
 
 ## 🇮🇱 il
 * xxx
 * 
-
+ 
 
 ----
 
