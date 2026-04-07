@@ -4,6 +4,7 @@
 
 ## 🕶️ 80's cartoon
 - [dilber-season-1-episode-05-testing](https://archive.org/details/dilbert-season-1-episode-05-testing)
+- [magical-princess-minky-momo - gg](https://archive.org/details/magical-princess-minky-momo)
 - [xx (xxx)]()
 - [xx (xxx)]()
 
